@@ -1,8 +1,8 @@
 CREATE DATABASE  IF NOT EXISTS `systemhlr` /*!40100 DEFAULT CHARACTER SET utf8 */ /*!80016 DEFAULT ENCRYPTION='N' */;
 USE `systemhlr`;
--- MySQL dump 10.13  Distrib 8.0.21, for Win64 (x86_64)
+-- MySQL dump 10.13  Distrib 8.0.21
 --
--- Host: 127.0.0.1    Database: systemhlr
+--  Banco de dados: SystemHLR
 -- ------------------------------------------------------
 -- Server version	8.0.21
 
